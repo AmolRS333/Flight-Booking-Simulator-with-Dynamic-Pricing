@@ -1,0 +1,32 @@
+[
+  {
+    "airport_code": "JFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "airport_code": "LAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "USA",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "airport_code": "ORD",
+    "name": "O'Hare International Airport",
+    "city": "Chicago",
+    "country": "USA",
+    "timezone": "America/Chicago"
+  },
+  {
+    "airport_code": "ATL",
+    "name": "Hartsfield–Jackson Atlanta International Airport",
+    "city": "Atlanta",
+    "country": "USA",
+    "timezone": "America/New_York"
+  }
+]
+
+

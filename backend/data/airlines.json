@@ -1,0 +1,19 @@
+[
+  {
+    "airline_code": "SB",
+    "airline_name": "Springboard Airways",
+    "logo_url": "https://placehold.co/120x40?text=SB"
+  },
+  {
+    "airline_code": "SKY",
+    "airline_name": "SkyJet Airlines",
+    "logo_url": "https://placehold.co/120x40?text=SKY"
+  },
+  {
+    "airline_code": "ATL",
+    "airline_name": "Atlas Air",
+    "logo_url": "https://placehold.co/120x40?text=ATL"
+  }
+]
+
+

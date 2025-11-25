@@ -1,0 +1,52 @@
+[
+  {
+    "flight_number": "SB101",
+    "airline_code": "SB",
+    "departure_airport_code": "JFK",
+    "arrival_airport_code": "LAX",
+    "departure_time": "2025-12-01T14:00:00Z",
+    "arrival_time": "2025-12-01T20:00:00Z",
+    "base_fare": 320,
+    "currency": "USD",
+    "total_seats": 180,
+    "fare_class": "ECONOMY",
+    "meta": {
+      "aircraft_type": "Boeing 737",
+      "duration_minutes": 360
+    }
+  },
+  {
+    "flight_number": "SKY202",
+    "airline_code": "SKY",
+    "departure_airport_code": "LAX",
+    "arrival_airport_code": "JFK",
+    "departure_time": "2025-12-02T16:00:00Z",
+    "arrival_time": "2025-12-02T22:30:00Z",
+    "base_fare": 340,
+    "currency": "USD",
+    "total_seats": 200,
+    "fare_class": "ECONOMY",
+    "meta": {
+      "aircraft_type": "Airbus A321",
+      "duration_minutes": 390
+    }
+  },
+  {
+    "flight_number": "ATL550",
+    "airline_code": "ATL",
+    "departure_airport_code": "ORD",
+    "arrival_airport_code": "ATL",
+    "departure_time": "2025-12-03T09:00:00Z",
+    "arrival_time": "2025-12-03T11:00:00Z",
+    "base_fare": 180,
+    "currency": "USD",
+    "total_seats": 150,
+    "fare_class": "ECONOMY",
+    "meta": {
+      "aircraft_type": "Boeing 757",
+      "duration_minutes": 120
+    }
+  }
+]
+
+
